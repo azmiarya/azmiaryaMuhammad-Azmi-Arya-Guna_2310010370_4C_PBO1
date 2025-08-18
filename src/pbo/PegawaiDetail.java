@@ -6,7 +6,7 @@ public class PegawaiDetail extends Pegawai {
     private String jenis;
     private double gaji;
     
-    //  overriding
+    // overriding
     public PegawaiDetail(String nama, String nip, String jenis, double gaji) {
         super(nama, nip);
         this.jenis = jenis;
