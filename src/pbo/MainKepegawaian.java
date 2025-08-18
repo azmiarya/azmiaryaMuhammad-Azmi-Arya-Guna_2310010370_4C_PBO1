@@ -10,6 +10,7 @@ public class MainKepegawaian {
         
         // array
         PegawaiDetail[] listpegawai1 = new PegawaiDetail[2]; //lenght
+        PegawaiDetail[] listpegawai2 = new PegawaiDetail[2];
         
         System.out.println("===== INPUT DATA PEGAWAI =====");
         
@@ -56,6 +57,7 @@ public class MainKepegawaian {
             }
             // objek
             listpegawai1[i] = new PegawaiDetail(nama, nip, jenis, gaji);
+            listpegawai2[i] = new PegawaiDetail(nama, nip, jenis, gaji);
         }
         
         // hasil akhir output
