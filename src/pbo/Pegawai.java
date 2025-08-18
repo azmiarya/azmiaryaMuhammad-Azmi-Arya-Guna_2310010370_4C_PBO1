@@ -2,7 +2,7 @@
 package pbo;
 // class
 public class Pegawai {
-    // enkapsulasi dan atribut
+    //  enkapsulasi dan atribut
     private String nama;
     private String nip;
     

@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class MainKepegawaian {
     public static void main(String[] args) {
-        // IO sederhana
+        //  IO sederhana
         Scanner scanner = new Scanner(System.in);
         
         // array
